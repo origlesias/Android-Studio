@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Calcul</string>
+    <string name="id2131427414">Borrar</string>
+<string name="id2131427416">Siete</string>
+<string name="id2131427417">Ocho</string>
+<string name="id2131427418">Nueve</string>
+<string name="id2131427419">Division</string>
+<string name="id2131427421">Cuatro</string>
+<string name="id2131427422">Cinco</string>
+<string name="id2131427423">Seis</string>
+<string name="id2131427424">Multiplicacion</string>
+<string name="id2131427426">Uno</string>
+<string name="id2131427427">Dos</string>
+<string name="id2131427428">Tres</string>
+<string name="id2131427429">Resta</string>
+<string name="id2131427431">Cero</string>
+<string name="id2131427432">Punto</string>
+<string name="id2131427433">Igual</string>
+<string name="id2131427434">Suma</string>
+</resources>
